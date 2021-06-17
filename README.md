@@ -1,5 +1,6 @@
 # Hello-World-Android-Class
 
+#### Note: I uploaded the gif in the 'hello world app1.gif' file.
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
