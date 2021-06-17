@@ -1,6 +1,5 @@
 # Hello-World-Android-Class
 
-(NOTE: I did not know how to add this TO-DO list to my 'user story', so I added it here instead. I uploaded the GIF in the 'hello world app1.gif' file. )
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
