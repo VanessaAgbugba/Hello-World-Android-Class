@@ -15,3 +15,7 @@
    - [x] a. User can enter text into a text field using the keyboard.  
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [x] c. If the text field is empty, update label with default text string.  
+   
+### Video Walkthrough
+<img src='https://github.com/VanessaAgbugba/Hello-World-Android-Class/blob/main/hello%20world%20app1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
